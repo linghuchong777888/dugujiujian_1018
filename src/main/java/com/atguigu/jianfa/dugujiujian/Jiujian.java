@@ -8,7 +8,9 @@ public class Jiujian {
         System.out.println("hello dugujiujian !!!");
         System.out.println("hello dugujiujian !!!");
         System.out.println("hello dugujiujian !!!");
-        System.out.println("hello dugujiujian !!!");
-        System.out.println("hello dugujiujian !!!");
+        System.out.println("hello dugujiujian  ybq");
+        System.out.println("hello dugujiujian  ybq");
+        System.out.println("hello dugujiujian  ybq");
+        System.out.println("hello dugujiujian  ybq");
     }
 }
